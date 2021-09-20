@@ -8,39 +8,25 @@
       "id": 12
     },
     {
-      "name": "Hostage",
-      "rating": "6.3",
-      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg",
+      "name": "TEST3",
+      "rating": 9,
       "overview": "When a mafia accountant is taken hostage on his beat, a police officer – wracked by guilt from a prior stint as a negotiator – must negotiate the standoff, even as his own family is held captive by the mob.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg",
       "id": 13
     },
     {
-      "name": "toyz stroy",
-      "rating": 6,
-      "imageURL": "toyz.jpg",
-      "overview": "aaaa",
+      "name": "Zack Snyder's Justice League",
+      "rating": 6.3,
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",
+      "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
       "id": 14
     },
     {
-      "name": "toyz stroy",
-      "rating": 4,
-      "imageURL": "toyz.jpg",
-      "overview": "aaa",
+      "name": "Army of the Dead 2",
+      "rating": 5,
+      "overview": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble: venturing into the quarantine zone to pull off the greatest heist ever attempted.\n\n",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",
       "id": 15
-    },
-    {
-      "name": "buz devri",
-      "rating": 3,
-      "imageURL": "toyz.jpg",
-      "overview": "jjjjhhjhjhjhjhjhj",
-      "id": 16
-    },
-    {
-      "name": "arabalar3",
-      "rating": 7,
-      "imageURL": "toyz.jpg",
-      "overview": "dsdfsdfsdf",
-      "id": 17
     }
   ]
 }
